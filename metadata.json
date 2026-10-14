@@ -1,0 +1,6 @@
+{
+  "name": "CoreNode Attend",
+  "description": "Smart Attendance and Workforce Management Software for Indian SMBs featuring live attendance, shifts, leave approvals, regularization, and payroll summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
